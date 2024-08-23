@@ -1,3 +1,5 @@
+package main.java;
+
 public class Main {
     static int[] amounts = new int[100];
     static String[] borrowers = new String[100];
